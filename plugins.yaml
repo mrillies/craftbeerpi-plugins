@@ -285,3 +285,11 @@ OnAtStartup:
   api: 3.0
   author: Justin Angevaare
   repo_url: https://github.com/jangevaare/cbpi-OnAtStartup.git
+  
+Function_Actor:
+  description: This Actor drives a slave actor with delays, pulses and patterns. It also allows an actor to be controlled by a sensor as a trigger directly. The slave actor is intended to be hidden from the dashboard and should not be driven directly.
+  api: 3.0
+  author: Jacob Gillies
+  repo_url: https://github.com/mrillies/cbpi_FunctionActor.git  
+  
+  
